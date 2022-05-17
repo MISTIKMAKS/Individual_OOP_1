@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Individual\Individual\bin\Debug\Individual.exe.config
+C:\Users\User\Desktop\Individual\Individual\bin\Debug\Individual.exe
+C:\Users\User\Desktop\Individual\Individual\bin\Debug\Individual.pdb
+C:\Users\User\Desktop\Individual\Individual\obj\Debug\Individual.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Individual\Individual\obj\Debug\Individual.exe
+C:\Users\User\Desktop\Individual\Individual\obj\Debug\Individual.pdb
